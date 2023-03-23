@@ -2,7 +2,7 @@
 Complete authentication with proper error handling
 
 # Install Dependancies
-After cloning the source code, change directory to project folder ( project root folder ). 
+After cloning the source code, change directory to project folder. 
 Run following command: 
 `npm install`
 
