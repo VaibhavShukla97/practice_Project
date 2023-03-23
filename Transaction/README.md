@@ -1,8 +1,8 @@
 # Practice Project
 
 
-#### Install Dependancies
-After cloning/downloading the source code, change directory to project folder ( project root folder ). 
+# Install Dependancies
+After cloning the source code, change directory to project folder ( project root folder ). 
 Run following command: 
 `npm install`
 
@@ -10,7 +10,7 @@ Run following command:
 
 
 
-#### Run the server
+# Run the server
 `npm run dev`
 
 
