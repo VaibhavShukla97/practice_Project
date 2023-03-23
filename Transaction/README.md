@@ -7,7 +7,7 @@ Run following command:
 `npm install`
 
 # Create .env file also 
-APP_PORT=5000
+APP_PORT=8000
 DEBUG_MODE=true
 DB_URL=put your dblink
 JWT_SECRET=put your secrets string
